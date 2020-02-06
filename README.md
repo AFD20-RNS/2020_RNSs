@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AFD20-RNS/2020_RNSs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/AFD20-RNS/2020_RNSs/blob/master/RNS%20-%20Efficient%20Collection%20of%20In-Situ%20Mechanistic%20Response%20v3.docx) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
